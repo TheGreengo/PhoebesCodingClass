@@ -1,0 +1,5 @@
+Name,ID,Species,Feeding Schedule,Weight,Height,Age,Needs Kisses,Meal Weight,Is Big,Meal Details
+Echo,1,Dog,2,40,24,2.5,True,4.0,False,4.0 lbs of kibble
+Evie,2,?,1,14,10,8.0,True,1.4,False,1.4 lbs of kibble
+Simon,3,Horse,3,930,60,5.0,True,93.0,True,93.0 lbs of oats
+Lucifer,4,Cat,1,12,12,13.0,True,1.2,False,1.2 lbs of idk fish
